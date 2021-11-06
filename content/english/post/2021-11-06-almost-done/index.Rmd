@@ -1,0 +1,24 @@
+---
+title: Almost Done
+author: Aaron Reinke
+date: '2021-11-06'
+slug: []
+categories:
+  - R
+tags:
+  - Trial
+description: This is meta description
+---
+
+
+## My first post
+
+This is my first post
+
+## Some random code
+
+```{r}
+x <- iris
+summary(iris)
+```
+
