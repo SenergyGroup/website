@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Our Projects on Senergy Group, LLC</title>
+    <link>https://synergygroup.org/project/</link>
+    <description>Recent content in Our Projects on Senergy Group, LLC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language><atom:link href="https://synergygroup.org/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1</title>
+      <link>https://synergygroup.org/project/rio-furniture-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://synergygroup.org/project/rio-furniture-1/</guid>
+      <description>Solar Energy Project Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
+    </item>
+    
+    <item>
+      <title>Project 2</title>
+      <link>https://synergygroup.org/project/rio-furniture-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://synergygroup.org/project/rio-furniture-2/</guid>
+      <description>Wind Energy Project Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
+    </item>
+    
+    <item>
+      <title>Project 3</title>
+      <link>https://synergygroup.org/project/rio-furniture-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://synergygroup.org/project/rio-furniture-3/</guid>
+      <description>Environmental Conservation Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas.</description>
+    </item>
+    
+    <item>
+      <title>Project 4</title>
+      <link>https://synergygroup.org/project/rio-furniture-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://synergygroup.org/project/rio-furniture-4/</guid>
+      <description>Environmental Impact Assessment Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
+    </item>
+    
+    <item>
+      <title>Project 5</title>
+      <link>https://synergygroup.org/project/rio-furniture-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://synergygroup.org/project/rio-furniture-5/</guid>
+      <description>Nitrogen Capture in River Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
+    </item>
+    
+    <item>
+      <title>Project 6</title>
+      <link>https://synergygroup.org/project/rio-furniture-6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://synergygroup.org/project/rio-furniture-6/</guid>
+      <description>Affordable Housing Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas.</description>
+    </item>
+    
+  </channel>
+</rss>
