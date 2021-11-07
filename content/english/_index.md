@@ -15,8 +15,9 @@ banner:
 about:
   enable: true
   title: "About Us"
-  description: "We aim to provide clean energy at a price everyone can afford"
-  content: "In the United States, the average starting cost to install a 6-kW solar system for a home is $15,000. We believe that is too much. Clean energy shouldn't be treated as a luxury, and we are committed to providing our community with affordable products so everyone can have access to a renewable power source."
+  description: "We believe that everyone, given the chance, would make a positive change in the world"   content: "The future of our planet seems more and more uncertain, and for some of us it can be too overwhelming to think about. Whether it's the constant updates on our smartphones or the news rattling off terrifying statistics about climate change, hope for the future can be hard to find. We, like you, are tired. That is why we are taking a stand. We whole-heatedly believe that everyone wants to change this world for the better, however, not everyone has the opportunity to make a difference. Let us bring that opportunity to you. <br>
+  When you buy our products you are investing in the future. Your investment will help provide affordable clean energy to families in need. You will supply your community with housing opportunities. Your contribution with also be used to repair damage done to our environmental. <br>
+  Our goal isn't to become rich. We don't want to trick you into buying a cheap product. We just want to make a difference, and we know you do too. Come join us and make this world a little bit better."
   image: "images/wrapper-img.jpg"
 
 
@@ -25,7 +26,8 @@ portfolio:
   enable: true
   bg_image: "images/Light.jpeg"
   title: "Our Initiatives"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate soluta corporis odit, optio cum! Accusantium numquam ab, natus excepturi architecto earum ipsa aliquam, illum, omnis rerum, eveniet officia nihil. Eum quod iure nulla, soluta architecto distinctio. Nesciunt odio ullam expedita, neque fugit maiores sunt perferendis placeat autem animi, nihil quis suscipit quibusdam ut reiciendis doloribus natus nemo id quod illum aut culpa perspiciatis consequuntur tempore?"
+  content: "*Clean Energy*: In the United States, the average starting cost to install a 6-kW solar system for a home is $15,000. We believe that is too much. Clean energy shouldn’t be treated as a luxury, and we are committed to providing our community with affordable products so everyone can have access to a renewable power source. <br>
+  *Environmental Projects*: This year, the NOAA announced that the "dead zone" in the Gulf of Mexico has grown to approximately 6,334 square miles. That is more than 4 million acres of habitat unavailable to marine life because of pollution. We pledge to find ways to limit the "dead zone" without putting the burden on hard working farmers."
   button:
     enable: true
     label: "View Works"
